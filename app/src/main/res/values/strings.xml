@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Interactive app</string>
+    <string name="button">Get</string>
+    <string name="textView"></string>
+    <string-array name="string_array_name">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+    </string-array>
+</resources>
